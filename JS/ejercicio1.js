@@ -5,4 +5,3 @@ if(edad >= 18 && edad<=75){
 }else{
     document.write(`Con la edad de ${edad} años no puede conducir`)
 }
-console.log(edad) 
